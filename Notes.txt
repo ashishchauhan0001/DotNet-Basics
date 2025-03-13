@@ -1,10 +1,12 @@
 To create a new folder to run a program:
-command: `dotnet new console -n MyProject`
-
+command: `dotnet new console -n MyProject`   ek project bn jaega with name MyProject.
+ run command- `dotnet run Program.cs`
 
 for calling one program from the entry point of that folder:
 ex: program class is the main enrty point
 NewDataProcessor.cs is a new file in that folder then we can call it like this.
+
+SWAGGER:- `http://localhost:5000/swagger/index.html`
 
 
 class Program
@@ -14,6 +16,8 @@ class Program
         NewDataProcessor.ProcessData();
     }
 }
+
+
 
 
 

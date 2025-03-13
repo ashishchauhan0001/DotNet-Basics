@@ -120,12 +120,10 @@ namespace HelloWorld
              Console.WriteLine(solve3(3,4));
 
              // Method Overloading is also possible
+             Console.WriteLine(MyMethod(5));
+             Console.WriteLine(MyMethod(5.5f));
+             Console.WriteLine(MyMethod(5.5, 6.5));
 
-              int MyMethod(int x)
-              float MyMethod(float x)
-              double MyMethod(double x, double y)
-
-           
         }
 
 // Create function inside the Program class but outside the main function and call it from the main function
@@ -142,8 +140,19 @@ namespace HelloWorld
            static int solve3(int a,int b){
             return a+b;
            }
+           static int MyMethod(int x)
+           {
+               return x * x;
+           }
 
+           static float MyMethod(float x)
+           {
+               return x * x;
+           }
 
-           
+           static double MyMethod(double x, double y)
+           {
+               return x + y;
+           }
     }
 }
