@@ -1,0 +1,14 @@
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\bin\Debug\net9.0\OOPinC#.exe
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\bin\Debug\net9.0\OOPinC#.deps.json
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\bin\Debug\net9.0\OOPinC#.runtimeconfig.json
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\bin\Debug\net9.0\OOPinC#.dll
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\bin\Debug\net9.0\OOPinC#.pdb
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.AssemblyInfoInputs.cache
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.AssemblyInfo.cs
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.csproj.CoreCompileInputs.cache
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.dll
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\refint\OOPinC#.dll
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.pdb
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\OOPinC#.genruntimeconfig.cache
+C:\Users\asch2\Documents\INTERNSHIP\C#\OOPinC#\obj\Debug\net9.0\ref\OOPinC#.dll

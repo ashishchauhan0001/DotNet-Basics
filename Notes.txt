@@ -1,0 +1,24 @@
+To create a new folder to run a program:
+command: `dotnet new console -n MyProject`
+
+
+for calling one program from the entry point of that folder:
+ex: program class is the main enrty point
+NewDataProcessor.cs is a new file in that folder then we can call it like this.
+
+
+class Program
+{
+    static void Main()
+    {
+        NewDataProcessor.ProcessData();
+    }
+}
+
+
+
+first configure the launchSettings file use given below locolhost https links.
+
+Run the Project File 
+` dotnet run --urls "http://localhost:5000;https://localhost:5001"`
+
